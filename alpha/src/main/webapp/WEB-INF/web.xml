@@ -30,8 +30,8 @@
   	<servlet-class>rpc.Logout</servlet-class>
   </servlet>
   <servlet>
-  	<servlet-name>recommend</servlet-name>
-  	<display-name>recommend</display-name>
+  	<servlet-name>recommendation</servlet-name>
+  	<display-name>recommendation</display-name>
   	<description></description>
   	<servlet-class>rpc.RecommendItem</servlet-class>
   </servlet>
@@ -59,8 +59,8 @@
   	<url-pattern>/logout</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
-  	<servlet-name>recommend</servlet-name>
-  	<url-pattern>/recommend</url-pattern>
+  	<servlet-name>recommendation</servlet-name>
+  	<url-pattern>/recommendation</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
   	<servlet-name>register</servlet-name>
