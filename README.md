@@ -70,3 +70,12 @@ public class App {
 ```
 ## MySQL Tables
 ![mysql](https://github.com/lymmm412/job-recommendation/blob/master/images/mysql.png)
+
+## Deploy to AWS EC2
+you can use my website via this link:\\
+http://3.134.86.173/alpha
+
+
+## Future Work
+* Rewrite front end with React.js
+* For now the default job search is **Software Engineer**, i'm still working on the project to allow users to input any job type they like.
