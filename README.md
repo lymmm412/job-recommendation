@@ -72,7 +72,8 @@ public class App {
 ![mysql](https://github.com/lymmm412/job-recommendation/blob/master/images/mysql.png)
 
 ## Deploy to AWS EC2
-you can use my website via this link:\\
+you can use my website via this link:
+
 http://3.134.86.173/alpha
 
 
